@@ -1,0 +1,6 @@
+# Ignore artifacts:
+dist
+build
+node_modules
+coverage
+azure-pipelines.yml
